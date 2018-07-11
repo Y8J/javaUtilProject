@@ -1,7 +1,7 @@
 /** 
  *  缩略图实现，将图片(jpg、bmp、png、gif等等)真实的变成想要的大小 
  */  
-package com.zjht.youoil.util;  
+package com.zjht.util;  
   
 import java.awt.Image;  
 import java.awt.image.BufferedImage;  
